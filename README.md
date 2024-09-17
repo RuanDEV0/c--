@@ -1,4 +1,4 @@
-# C++
+# C
 
 Este README fornece uma visão geral do repositorio de linguagem c++, incluindo estrutura e instruções básicas de uso.
 
